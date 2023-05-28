@@ -1,9 +1,0 @@
-name: marl
-channels:
-  - defaults
-dependencies:
-  - _libgcc_mutex=0.1=main
-  - _tflow_select=2.1.0=gpu
-  - absl-py=0.9.0=py36_0
-  - astor=0.8.0=py36
-prefix: /home/yuchao/anaconda3/envs/marl
